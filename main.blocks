@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="z7+VV`^hc,ogPccxEWiA" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="_lj-flI:Ih@A`qCZKs~L"><value name="text"><shadow type="text" id="Asy6NLduGj[dSDsl!4]L"><field name="TEXT">Hello! Please perform an action.</field></shadow></value><next><block type="basic_show_icon" id="n]P}}5}AxdRb~wyMpshQ"><field name="i">IconNames.Happy</field><next><block type="basic_show_icon" id="H=S=WE?aZ`BsypSvcSpV"><field name="i">IconNames.QuarterNote</field><next><block type="basic_show_icon" id="^PW{ErL=CA#Kd(q{yr=,"><field name="i">IconNames.EigthNote</field></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="n_BbDMRh@EojU,u@Y=_p" x="56" y="403"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="qWPeKM,9|n~``#IY5/~J"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . . 
+        # . # . #
+        `</field><next><block type="device_print_message" id="EjYP(|6c[qfF57A`JCYU"><value name="text"><shadow type="text" id="PSb?n%z(zw+*Iu4=)4fS"><field name="TEXT">Thinking...</field></shadow></value><next><block type="device_print_message" id="ft4!^QH6(TN%x0v%-kdX"><value name="text"><shadow type="text" id=":g;qrr?CR,m6|SX[}lWQ"><field name="TEXT">Your day will be great</field></shadow></value><next><block type="basic_show_icon" id="lpw|ov:#vvXhGOQnW)#Y"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="_t87dS1E:ASES7toQPsM" x="42" y="958"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="~30_^^KTY-bY#?6[RD|w"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . . 
+        # . # . #
+        `</field><next><block type="device_print_message" id="zMeyM(~6R]pv.{mse_zL"><value name="text"><shadow type="text" id="H2.$wv=1mZPS{Qa,.$rJ"><field name="TEXT">Thinking...</field></shadow></value><next><block type="basic_show_icon" id="3usjw|{/3`ZUv#_6U/s,"><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="UjgexUUkvZ,:B|]9ED3/"><value name="text"><shadow type="text" id="/;:W0+fUHS91K4AAs9B*"><field name="TEXT">things can get better, keep working hard!</field></shadow></value><next><block type="basic_show_icon" id="}FQmm{k;#ztal(*zq:#)"><field name="i">IconNames.QuarterNote</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="?7^3M*vyVe|8kT{=*^Cz" x="40" y="1513"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="gmy=n%;giEUxl0jL#F(W"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . . 
+        # . # . #
+        `</field><next><block type="device_print_message" id="J_;XmTY]RMCC@O52e]0`"><value name="text"><shadow type="text" id=");PM^Y/o1Jf)L:W|u_$;"><field name="TEXT">Thinking...</field></shadow></value><next><block type="device_print_message" id=")#XOtW9%$YtF0mtN8bt@"><value name="text"><shadow type="text" id="m/^Rl-=3e0L@AuY/,YL}"><field name="TEXT">was your day bad?</field></shadow></value><next><block type="device_show_leds" id="0H?u.RRPMTYD:cM;,.Ot"><field name="LEDS">`
+        . # . # . 
+        # . . # # 
+        # # . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="*F{PQ*WrAc4P)lAYw4a|"><value name="text"><shadow type="text" id="_i(0VH{ZQrG+WnEL,hD/"><field name="TEXT">do not get disappointed, keep moving on! :D</field></shadow></value><next><block type="basic_show_icon" id="b|TqG38h(Z;UeWDdp.%~"><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="-5gJTy~wp6FL30x^hDkp"><value name="text"><shadow type="text" id="`wnXXps`w`[8(Ac9:Bhk"><field name="TEXT">Things will get better!</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
